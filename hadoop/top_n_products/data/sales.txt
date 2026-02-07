@@ -1,0 +1,7 @@
+p001,Mobile,20000
+p002,Laptop,50000
+p001,Mobile,15000
+p003,Headphones,3000
+p002,Laptop,45000
+p004,Tablet,12000
+p003,Headphones,4000
